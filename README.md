@@ -1,6 +1,6 @@
 # Hi there, I'm Vincent - aka [HilariousDog]👋 
 
-## I'm a College student, Studying Bachelor of Science in Information and Technology
+## I'm a College student, Studying Bachelor of Science in Information Technology
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React.js
 - ⚡ Fun fact: I love to draw and play guitar
