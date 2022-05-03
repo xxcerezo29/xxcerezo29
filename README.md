@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[instagram]: https://www.instagram.com/xxcerezoxx/
+- [instagram]: https://www.instagram.com/xxcerezoxx
 
 <!---
 xxcerezo29/xxcerezo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
