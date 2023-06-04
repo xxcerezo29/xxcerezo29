@@ -7,7 +7,7 @@
 - 📫 2023 Goals: become more useless.
 
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://www.instagram.com/xxcerezoxx/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/us3le.s.s/)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
