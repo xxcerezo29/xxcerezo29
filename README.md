@@ -2,7 +2,7 @@
 
 ## I'm a College student, Studying Bachelor of Science in Information Technology
 - 👀 I’m interested in creating new ideas/system and building web application
-- 🌱 I’m currently don't know what to do.
+- 🌱 I currently don't know what to do.
 - ⚡ Fun fact: I love to draw and play guitar, and I am Useless.
 - 📫 2023 Goals: become more useless.
 
