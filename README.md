@@ -1,10 +1,10 @@
 # Hi there, I'm Vincent - aka [haxhiii]👋 
 
-## I'm a College student, Studying Bachelor of Science in Information Technology
-- 👀 I’m interested in creating new ideas/system and building web application
+## I'm a college student studying a Bachelor of Science in Information Technology.
+- 👀 I’m interested in creating new ideas and systems and building web applications.
 - 🌱 I currently don't know what to do.
-- ⚡ Fun fact: I love to draw and play guitar, and I am Useless.
-- 📫 2023 Goals: become more useless.
+- ⚡ Fun fact: I love to draw and play guitar, and I am useless.
+- 📫 2023 goals: become more useless.
 
 ### Connect with me:
 [![website](./img/instagram-light.svg)](https://www.instagram.com/us3le.s.s/)
