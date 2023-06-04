@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [Vicente]👋 
+# Hi there, I'm Vincent - aka [haxhiii]👋 
 
 ## I'm a College student, Studying Bachelor of Science in Information Technology
 - 👀 I’m interested in creating new ideas/system
