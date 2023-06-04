@@ -1,10 +1,10 @@
 # Hi there, I'm Vincent - aka [haxhiii]👋 
 
 ## I'm a College student, Studying Bachelor of Science in Information Technology
-- 👀 I’m interested in creating new ideas/system
-- 🌱 I’m currently learning Laravel
-- ⚡ Fun fact: I love to draw and play guitar
-- 📫 2022 Goals: Learn more about web, mobile and desktop development
+- 👀 I’m interested in creating new ideas/system and building web application
+- 🌱 I’m currently don't know what to do.
+- ⚡ Fun fact: I love to draw and play guitar, and I am Useless.
+- 📫 2023 Goals: become more useless.
 
 ### Connect with me:
 [![website](./img/instagram-light.svg)](https://www.instagram.com/xxcerezoxx/)
