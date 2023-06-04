@@ -2,7 +2,7 @@
 
 ## I'm a College student, Studying Bachelor of Science in Information Technology
 - 👀 I’m interested in creating new ideas/system
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Laravel
 - ⚡ Fun fact: I love to draw and play guitar
 - 📫 2022 Goals: Learn more about web, mobile and desktop development
 
